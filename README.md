@@ -15,13 +15,55 @@
 ---
 
 ### 👨‍🏫 About Me
+I am a Faculty Lecturer (Assistant Professor) at the Berlin School of Business and Innovation (BSBI) in Germany. I hold a Ph.D. in Computer Vision & Artificial Intelligence from Multimedia University, Malaysia. With a deep passion for science and technology, my goal is to contribute to the development and better understanding of intelligent systems. My background blends rigorous academic research with hands-on industry leadership, allowing me to bridge the gap between theoretical AI and practical software solutions.
 
-- 🔭 I’m currently a **Faculty Lecturer (Assistant Professor)** at the **Berlin School of Business and Innovation (BSBI)**, Germany.
-- 🎓 I hold a **Ph.D. in Computer Vision & Artificial Intelligence** from Multimedia University, Malaysia.
-- 🔬 My core research interests include **Computer Vision, Deep Learning, Ambient Assisted Living, Anomaly Detection**, and **Hand Gesture Recognition**.
-- 💼 Previously, I served as a **Post-Doctoral Scientist** at Multimedia University and worked extensively in the tech industry as a **Chief Technology Officer (CTO)**.
-- 🥇 I have been recognized with multiple accolades, including the **Gold Medal at iNVENTX 2024 & 2025** and the **Best Paper Award** at the 7th International Visual Informatics Conference.
-- 📫 Reach out to me for academic collaborations or technical inquiries: **[fahmid.alfarid@berlinsbi.com](mailto:fahmid.alfarid@berlinsbi.com)**
+### 🧠 Areas of Expertise
+- **Artificial Intelligence & Machine Learning:** Deep Learning, Neural Networks, Predictive Modeling.
+- **System Development:** Algorithm Design, Data Structures, Parallel Processing, Software Engineering.
+- **Software & Web Engineering:** C, C++, Java, Python, C#, Full-Stack Development.
+- **Leadership:** Motivation-Organization-Innovation (MOI) Leadership, Technical Project Management.
+
+### 🔬 Research Interests
+- Computer Vision
+- Ambient Assisted Living
+- Anomaly Detection and Crowd Analysis
+- Hand Gesture Recognition
+- Precision Agriculture (Disease Classification)
+
+---
+
+### 💼 Professional Experience
+- **Faculty Lecturer (Assistant Professor)** — Berlin School of Business and Innovation, Germany *(Current)*
+- **Post-Doctoral Scientist** — Multimedia University, Malaysia *(August 2023 – Present)*
+- **Chief Technology Officer (CTO)** — INLEADS IT SOLUTION SDN BHD *(October 2022 – June 2023)*
+- **Team Leader in Software Development** — NeoBizWorld SDN. BHD. *(May 2018 – June 2022)*
+- **Graduate Research Assistant (Ph.D.) & Tutor** — Multimedia University, Malaysia *(January 2016 – October 2022)*
+
+---
+
+### 🏆 Awards & Honours
+- **Gold Medal Award** — iNVENTX 2025, Malaysia
+- **Silver Medal Award** — iNVENTX 2025, Malaysia
+- **Gold Medal Award** — iNVENTX 2024, Malaysia
+- **Keynote Speaker** — ICIERI 2024, Indonesia
+- **Postdoctoral Fellowship** — Faculty of Engineering, Multimedia University, 2023
+- **Best Paper Award** — 7th International Visual Informatics Conference, UNITEN Malaysia, 2021
+
+---
+
+### 📚 Selected Publications
+
+#### Top Papers
+- **[A Structured and Methodological Review on Multi-View Human Activity Recognition for Ambient Assisted Living](https://doi.org/10.3390/jimaging11060182)** — *J. Imaging 2025 (Q1)*
+- **[Single Shot Detector CNN and Deep Dilated Masks for Vision-Based Hand Gesture Recognition from Video Sequences](https://doi.org/10.1109/ACCESS.2024.3360857)** — *IEEE Access 2024 (Q1)*
+- **[Improving Wheat Leaf Disease Classification: Evaluating Augmentation Strategies and CNN-Based Models with Limited Dataset](https://doi.org/10.1109/ACCESS.2024.3360857)** — *IEEE Access 2024 (Q1)*
+- **[Crowd density estimation using deep learning for Hajj pilgrimage video analytics](https://doi.org/10.12688/f1000research.73156.1)** — *F1000 Research 2022 (Q1)*
+- **[Diagnosis of Hearing Deficiency using EEG based AEP Signals: CWT and improved-VGG16 Pipeline](https://doi.org/10.5281/zenodo.3997352)** — *PeerJ Computer Science 2021 (Q1)*
+
+#### Patents
+- **Smart assembly and method for unlimited power generation using series of rotatable members** — *Application PCT/MY2020/050081 (WO2021045608A1)* | World WIDE
+
+---
 
 ### 🛠️ Languages and Tools
 <p align="left">
@@ -29,20 +71,13 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Matlab-e16737?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-
-### 📚 Selected Recent Publications
-- **A Structured and Methodological Review on Multi-View Human Activity Recognition for Ambient Assisted Living** - *J. Imaging 2025 (Q1)* - **Single Shot Detector CNN and Deep Dilated Masks for Vision-Based Hand Gesture Recognition** - *IEEE Access 2024 (Q1)*
-- **Improving Wheat Leaf Disease Classification: Evaluating Augmentation Strategies and CNN-Based Models** - *IEEE Access 2024 (Q1)*
-- **Second-Life Electric Vehicle Batteries for Home Photovoltaic Systems** - *Energies 2024 (Q2)*
-- **Deep Dilated Convolutional Neural Network for Hajj Pilgrimage Crowd Density Image Classification** - *Sensors 2022 (Q1)*
-
-**💡 Patent:** *Smart assembly and method for unlimited power generation using series of rotatable members* (PCT/MY2020/050081)
-
-[**See my full publication record on Google Scholar ➡️**](https://scholar.google.com/citations?hl=en&authuser=1&user=trrQoEYAAAAJ)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahmid3358&show_icons=true&theme=radium&hide_border=true&count_private=true" alt="Fahmid's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahmid3358&theme=radium&hide_border=true" alt="Fahmid's GitHub Streak" />
+</p>
