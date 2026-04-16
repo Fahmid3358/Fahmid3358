@@ -38,8 +38,19 @@ I am a Faculty Lecturer (Assistant Professor) at the Berlin School of Business a
 - **Chief Technology Officer (CTO)** — INLEADS IT SOLUTION SDN BHD *(October 2022 – June 2023)*
 - **Team Leader in Software Development** — NeoBizWorld SDN. BHD. *(May 2018 – June 2022)*
 - **Graduate Research Assistant (Ph.D.) & Tutor** — Multimedia University, Malaysia *(January 2016 – October 2022)*
-
 ---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
 
 ### 🏆 Awards & Honours
 - **Gold Medal Award** — iNVENTX 2025, Malaysia
@@ -65,19 +76,4 @@ I am a Faculty Lecturer (Assistant Professor) at the Berlin School of Business a
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fahmid3358&show_icons=true&theme=radium&hide_border=true&count_private=true" alt="Fahmid's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahmid3358&theme=radium&hide_border=true" alt="Fahmid's GitHub Streak" />
-</p>
