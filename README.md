@@ -24,7 +24,11 @@ I am a Faculty Lecturer (Assistant Professor) at the Berlin School of Business a
 - **Leadership:** Motivation-Organization-Innovation (MOI) Leadership, Technical Project Management.
 
 ### 🔬 Research Interests
+- Artificial Intelligence
+- ML & DL
 - Computer Vision
+- Medical Imaging
+- Smart Farming
 - Ambient Assisted Living
 - Anomaly Detection and Crowd Analysis
 - Hand Gesture Recognition
